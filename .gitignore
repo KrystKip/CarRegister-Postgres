@@ -1,0 +1,16 @@
+# build folders
+bin/
+obj/
+.vs/
+.config/
+
+# user-specific VS files
+*.user
+*.suo
+
+# local secrets
+appsettings.Local.json
+
+# temp/log files
+*.log
+
